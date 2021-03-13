@@ -1,0 +1,1 @@
+console.log("Output from js file")
